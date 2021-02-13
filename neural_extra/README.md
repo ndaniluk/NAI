@@ -46,6 +46,7 @@ Since this project uses pretrained network this file [imagenet-vgg-verydeep-19.m
 ![Imgur](https://i.imgur.com/Kho7H1Y.jpg)
 
 ## Useful Links
+https://github.com/anishathalye/neural-style - Repo that we were inspired by
 
 ### Docstring
 [Python Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
